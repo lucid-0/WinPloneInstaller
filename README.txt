@@ -1,3 +1,8 @@
+This project installs Plone 5.0.8 on Windows!
+
+You'll find WinPloneInstaller.exe in the /dist/ folder of the GitHub 
+repo
+
 Please see the github repo for documentation! It is in the wiki (https://github.com/lucid-0/WinPloneInstaller/wiki)
 (a copy of the reStructuredText is also included in the /docs folder)
 
